@@ -1,0 +1,39 @@
+#process{
+  .row{
+    width: 80%;
+    margin: 0 auto;
+    .image{
+      margin: 0 auto;
+    }
+    img{
+      width: 90%;
+      margin: 40px;
+    }
+  }
+  .process__intro{
+    display: flex;
+    flex-direction: column;
+    h2{
+      margin: 40px auto 60px;
+      font-size: 70px;
+    }
+    p{
+      width: 50%;
+      margin: 0 auto 60px;
+    }
+    img{
+      width: 70%;
+      margin: 0 auto;
+    }
+  }
+  h3{
+    background-color: white;
+    color: black;
+  }
+  ul{
+    padding-left: 250px;
+    li{
+    font-size: 20px;
+  }
+}
+}

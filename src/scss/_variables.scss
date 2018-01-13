@@ -1,0 +1,12 @@
+$whiteSmoke: rgb(245, 245, 245);
+$about: rgb(232, 232, 232);
+$projects: rgb(157, 227, 238);
+$intro: rgb(198, 239, 245);
+$boxShadow: 0px 0px 7px 1px rgba(171,154,171,0.56);
+$textShadow: 1px 1px 4px rgba(112, 112, 112, 1);
+
+$base: 40px;
+$offset: 5px;
+$to: $base + $offset;
+
+$tablet: "(min-width: 768px) and (max-width: 1023px)";

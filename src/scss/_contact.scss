@@ -1,0 +1,24 @@
+#contact{
+  height: auto;
+  width: 100%;
+  .contact__heading{
+    background: steelBlue;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .contact__heading{
+    background: steelBlue;
+    height: 300px;
+  }
+  .contact__email{
+    @extend .contact__heading;
+    background-color: orange;
+  }
+  .contact__twitter{
+    @extend .contact__heading;
+    background-color: red;
+  }
+}
