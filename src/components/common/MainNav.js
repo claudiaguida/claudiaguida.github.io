@@ -26,12 +26,12 @@ export default class MainNav extends React.Component {
         <NavbarBrand href="/" className="mr-auto">CG
           {/*<img src={'src/assets/images/icons/cg.png'} />*/}
         </NavbarBrand>
+        <h4>Claudia Guida</h4>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse navigation" id="navbarSupportedContent">
-          <h4>Claudia Guida</h4>
-          <Nav className="">
+          <Nav className="ml-auto">
             <NavItem>
               <NavLink href="/projects">Projects</NavLink>
             </NavItem>

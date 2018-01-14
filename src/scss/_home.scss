@@ -1,5 +1,9 @@
 #home{
+  margin-top: 100px;
   font-family: 'Raleway', sans-serif;
+  .space{
+    height: 150px;
+  }
   .home__intro{
     background: rgba(42,190,175,1);
     background: -moz-linear-gradient(top, rgba(42,190,175,1) 0%, rgba(171,217,212,1) 100%);
@@ -16,6 +20,7 @@
     align-items: center;
     color: rgb(252, 252, 252);
     text-transform: uppercase;
+    position: static;
     h1{
     font-weight: 400;
 

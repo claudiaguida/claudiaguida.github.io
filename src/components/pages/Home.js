@@ -7,6 +7,7 @@ class Home extends React.Component {
   render(){
     return (
       <div id="home">
+        <div className="space"></div>
         <Row className="home__intro no-gutters">
           <h1>Hello</h1>
           <h4>My name is Claudia

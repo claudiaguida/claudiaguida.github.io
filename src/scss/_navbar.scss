@@ -1,29 +1,38 @@
 #main-nav{
+  margin-top: -100px;
   display: flex;
-  justify-content: space-between;
-  height: 80px;
+  justify-content: space-around;
+  height: 70px;
   background-color: white;
-  .mr-auto.nav {
-    // margin: 29%;
-  }
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+  -webkit-box-shadow: -1px 1px 1px 1px rgba(155,155,155,.5);
+  box-shadow: -1px 1px 1px 1px rgba(155,155,155,.5);
   .navbar-brand{
     font-size: 50px;
     color: rgb(242, 82, 186);
     font-family: 'Raleway Dots', cursive;
   }
   a{
-    color: black;
-    font-size: 20px;
+    color: rgb(203, 200, 213);
+    font-size: 16px;
+    font-weight: 400;
   }
   .navbar-toggler{
     outline: none;
   }
   h4{
+    @extend .navbar-brand;
+    color: black;
+    font-size: 30px;
     text-align: center;
     margin: 0 auto;
+    position: relative;
+    left: 35%;
   }
 }
 
 div#navbarSupportedContent.collapse.navbar-collapse.navigation{
-display: flex;
+width: auto;
 }
