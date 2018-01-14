@@ -17,15 +17,15 @@ const Mindful = ()=> {
       </Row>
       <Row className="project__overview">
         <Col sm={12}>
-          <h3>Project Overview</h3>
-          {/* <h5>My Role</h5> */}
-          <p>During my first week as UX immersive student at GA, I got asked to create an app for one of my classmate, Jon. Mindful 21 was created to help Jon to get into a meditation routine and to build a new long-lasting habit.</p>
-          {/* <h5>The Client</h5> */}
-          {/* <p>Mindful is the leading on-demand beauty service in London. Offering exclusive experience at home, they want their clients to feel empowered and looked after. They strive to offer services that are convenient, affordable and high quality.</p> */}
+          <h5 style={{margin: 50+'px ' + 0+'px '+ 20+'px '+ 0+'px'}}>Project Overview</h5>
+          <p>During my first week as UX immersive student at GA, I was asked to create an app for one of my classmates, Jon. Mindful 21 was created to help Jon to get into a meditation routine and to build a new long-lasting habit.</p>
+
           <h5>Brief</h5>
           <p>To redesign Mindful website with a human-centred approach, with the goal to reduce the landing page bounce rate and improve the conversion.</p>
           <h5>Problem</h5>
           <p>Jon is a busy editor who has recently experienced an injury and has partially lost his ears. His daily routine has dramatically changed since then, so he wants to regain his tranquillity by using a meditation app. Jon has tried already other meditation apps but he finds them extremely complicated and overwhelming. He wants a product which is easy to use and customisable according to his busy schedule.</p>
+          <h5>Methods</h5>
+          <p>User research, User interviews, Concept Mapping, Storyboarding, Wireframing, Paper prototype.</p>
           <h5>Solution</h5>
           <p>After an extensive research and spending lots of time with my user testing different versions of the paper prototypes, I created a very simple meditation App that Jon would enjoy to use. The user starts experiencing a sense of calm already by opening the landing page. Here he will be welcomed with a free 2 minutes meditation. There is no signup form, he can decide to log-in to the App after this meditation. This welcoming feeling will last throughout the entire experience. The user, after signing up, would land on the setting page and customise the duration time of the podcast and also set a reminder linked to his personal calendar.</p>
           <h5>Outcome</h5>

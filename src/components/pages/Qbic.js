@@ -29,7 +29,7 @@ const Qbic = ()=> {
           <h5>Solution</h5>
           <p>Having a clear understanding of our users&#44; needs and prioritizing them considering both their impact and viability, we concentrated our design on 3 main features. We created an App that allows the user to browse and book local activities in London. Thanks to the rescheduling feature, the user will be able to change his plan at any time. The user experience will be also improved by the messaging service, which will guide the user throughout his stay. He will also receive tickets, bookings confirmation and calendar alert directly on his phone. </p>
           <h5>Outcome</h5>
-          <p>After many design iterations and usability tests, we tested our High Fidelity prototype with many travellers. The App was well received, they believed it would dramatically improve their stay while abroad. They highlighted its great functionality, accessibility and friendly tone of voice.<a href="https://qbichotels.com" rel="noopener  noreferrer" target="_blank" >https:&#47;&#47;qbichotels.com</a></p>
+          <p>After many design iterations and usability tests, we tested our High Fidelity prototype with many travellers. The App was well received, they believed it would dramatically improve their stay while abroad. They highlighted its great functionality, accessibility and friendly tone of voice.{/*<a href="https://qbichotels.com" rel="noopener  noreferrer" target="_blank" >https:&#47;&#47;qbichotels.com</a>*/}</p>
           {/* {<h5>Tools</h5>
           <p>Paper & sharpies, Sketch, Invision, Trello.</p>} */}
           <a href="http://bit.ly/2lWFWQW" rel="noopener noreferrer" target="_blank">Check out the case study...</a>
