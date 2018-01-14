@@ -7,7 +7,7 @@ const LeSalon = ()=> {
       <Row
         className="project__header"
         style={{background: 'rgb(240, 220, 220)'}}>
-        <Col sm={6} className="project_header__text d-flex justify-content-end">
+        <Col sm={6} className="project_header__text">
           <h2>LeSalon</h2>
           <h4>Nov 2017</h4>
         </Col>
