@@ -27,7 +27,7 @@ const LeSalon = ()=> {
           <p>The design delivered was really well received, LeSalon stakeholders felt so strong about the solutions suggested that have already implemented the majority of it. See the LeSalon website here <a href="https://lesalon.com" rel="noopener  noreferrer" target="_blank" >https:&#47;&#47;lesalon.com</a></p>
           <h5>Tools</h5>
           <p>Paper & sharpies, Sketch, Invision, Trello.</p>
-          <a href="http://bit.ly/2CIsV7W" rel="noopener noreferrer" target="_blank">Read more...</a>
+          <a href="http://bit.ly/2CIsV7W" rel="noopener noreferrer" target="_blank">Check out the case study...</a>
         </Col>
       </Row>
     </div>

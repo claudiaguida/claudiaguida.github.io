@@ -1,13 +1,15 @@
 #main-nav{
   display: flex;
   justify-content: space-around;
-  height: 176px;
-  background-color: rgb(245, 246, 250);
+  height: 80px;
+  background-color: white;
   .mr-auto.nav {
-    margin: 29%;
+    // margin: 29%;
   }
   .navbar-brand{
-    font-size: 40px;
+    font-size: 50px;
+    color: rgb(242, 82, 186);
+    font-family: 'Raleway Dots', cursive;
   }
   a{
     color: black;

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Row } from 'reactstrap';
+import Projects from './Projects';
 
 
 class Home extends React.Component {
@@ -14,6 +15,7 @@ class Home extends React.Component {
             <br/>
           engaging UX experiences</h4>
         </Row>
+        <Projects />
       </div>
     );
   }
