@@ -1,5 +1,5 @@
 #main-nav{
-  margin-top: -100px;
+  margin-top: -70px;
   display: flex;
   justify-content: space-around;
   height: 70px;
@@ -33,6 +33,6 @@
   }
 }
 
-div#navbarSupportedContent.collapse.navbar-collapse.navigation{
-width: auto;
+nav#main-nav.navbar.navbar-expand-lg.navbar-light{
+  margin-bottom: 0;
 }

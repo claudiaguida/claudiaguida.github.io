@@ -4,7 +4,7 @@
 @import "about";
 @import "slick";
 @import "macbook";
-@import "le-salon";
+@import "project";
 @import "contact";
 @import "process";
 @import "projects";
@@ -23,6 +23,10 @@ body{
   font-family: 'Raleway', sans-serif
 }
 
+main{
+  margin-top: 70px;
+}
+
 p{
-  font-size: 22px;
+  font-size: 20px;
 }

@@ -3,16 +3,21 @@ import {Col, Row} from 'reactstrap';
 
 const LeSalon = ()=> {
   return (
-    <div id="le__salon">
-      <h2>LeSalon</h2>
-      <h4>Nov 2017</h4>
-      <Row className="project__row">
-        <Col sm={12} className="d-flex align-items-center">
+    <div id="project__content">
+      <Row
+        className="project__header"
+        style={{background: 'rgb(240, 220, 220)'}}>
+        <Col sm={6} className="project_header__text d-flex justify-content-end">
+          <h2>LeSalon</h2>
+          <h4>Nov 2017</h4>
+        </Col>
+        <Col sm={6} className="d-flex align-items-center">
           <img src={'src/assets/images/lesalon-lightpink.png'} />
         </Col>
+      </Row>
+      <Row className="project__overview">
         <Col sm={12}>
           <h3>Project Overview</h3>
-
           <h5>My Role</h5>
           <p>As part of a team of 3 UX designers, we had 2-week and a half Agile sprint to redesign LeSalon website using the double diamond method and the main UX design tools. I led the Discovery and Delivery phases of the Design process. My main strengths include Competitive Analysis, User Interviews, Affinity Maps, Personas, Wireframing and Design Ideation.</p>
           <h5>The Client</h5>
