@@ -41,5 +41,7 @@
     "url-loader": "^0.5.9",
     "webpack": "^3.3.0",
     "webpack-dev-server": "^2.5.1"
-  }
+  },
+  "repository": "https://github.com/claudiaguida/claudiaguida.github.io.git",
+  "author": "Mardzy <mardlingp@gmail.com>"
 }

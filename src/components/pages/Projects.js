@@ -31,8 +31,8 @@ const Projects = ()=> {
           <Row>
             <Col sm={3}>
               <Link to="/qbic"><h2>Qbic Hotels</h2></Link>
-              <p>Designing a new app which<br/>
-              brings travel experiences<br/>
+              <p>Designing a new app to<br/>
+              bring travel experiences<br/>
               to the next level</p>
             </Col>
             <Col sm={9}>

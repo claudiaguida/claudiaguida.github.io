@@ -14,7 +14,7 @@ class Contact extends React.Component {
         </Row>*/}
         <Row className="contact__email">
           <a href="mailto:claudia.guida4@gmail.com"><i className="fa fa-envelope" aria-hidden="true"></i></a>
-          <a href="mailto:claudia.guida4">claudia.guida4</a>
+          <a href="mailto:claudia.guida4@gmail.com">claudia.guida4</a>
         </Row>
         <Row className="contact__twitter">
           <a href="https://twitter.com/CloguiGuida">

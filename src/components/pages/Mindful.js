@@ -20,8 +20,8 @@ const Mindful = ()=> {
           <h5 style={{margin: 50+'px ' + 0+'px '+ 20+'px '+ 0+'px'}}>Project Overview</h5>
           <p>During my first week as UX immersive student at GA, I was asked to create an app for one of my classmates, Jon. Mindful 21 was created to help Jon to get into a meditation routine and to build a new long-lasting habit.</p>
 
-          <h5>Brief</h5>
-          <p>To redesign Mindful website with a human-centred approach, with the goal to reduce the landing page bounce rate and improve the conversion.</p>
+          {/* <h5>Brief</h5> */}
+          {/* <p>To redesign Mindful website with a human-centred approach, with the goal to reduce the landing page bounce rate and improve the conversion.</p> */}
           <h5>Problem</h5>
           <p>Jon is a busy editor who has recently experienced an injury and has partially lost his ears. His daily routine has dramatically changed since then, so he wants to regain his tranquillity by using a meditation app. Jon has tried already other meditation apps but he finds them extremely complicated and overwhelming. He wants a product which is easy to use and customisable according to his busy schedule.</p>
           <h5>Methods</h5>
