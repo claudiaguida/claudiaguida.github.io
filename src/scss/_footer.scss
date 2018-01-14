@@ -1,0 +1,21 @@
+ul.footer{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  .icons{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  a li{
+    font-size: 24px;
+    color: rgb(144, 213, 207);
+  }
+  p{
+    margin: 0;
+    font-size: 18px;
+    margin-right: 20px;
+  }
+}

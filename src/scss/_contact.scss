@@ -25,18 +25,19 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin: 0 auto;
   }
   .contact__email{
     @extend .contact__heading;
-    height: 180px;
+    height: 167px;
     background: white;
   }
   .contact__twitter{
     @extend .contact__email;
-    height: 180px;
   }
   p{
     text-align: center;
     color: black;
+    margin-bottom: 25px;
   }
 }

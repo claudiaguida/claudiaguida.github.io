@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter} from 'react-router-dom';
 import Routes from './components/utility/Routes';
 import MainNav from './components/common/MainNav';
+import Footer from './components/common/Footer';
 import 'bootstrap/dist/css/bootstrap.css';
 import './scss/style.scss';
 import 'fontawesome';
@@ -38,6 +39,7 @@ class App extends React.Component {
             condition= {this.state.condition}
           />}
           <Routes />
+          <Footer />
         </main>
       </BrowserRouter>
     );
