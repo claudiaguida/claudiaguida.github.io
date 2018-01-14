@@ -1,6 +1,6 @@
 #main-nav{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   height: 80px;
   background-color: white;
   .mr-auto.nav {
@@ -13,9 +13,17 @@
   }
   a{
     color: black;
-    font-size: 24px;
+    font-size: 20px;
   }
   .navbar-toggler{
     outline: none;
   }
+  h4{
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+div#navbarSupportedContent.collapse.navbar-collapse.navigation{
+display: flex;
 }
