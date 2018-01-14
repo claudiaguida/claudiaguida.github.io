@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
+import { /*Container, Collapse, Navbar, NavbarToggler,*/ NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
 // import ReallySmoothScroll from 'really-smooth-scroll';
 //
 // ReallySmoothScroll.shim();
@@ -30,12 +30,7 @@ export default class MainNav extends React.Component {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <Nav className="mr-auto">
               <NavItem>
-                <NavLink href="/"
-                // onClick={(e)=>{
-                //   e.preventDefault();
-                //   window.scrollTo(0, 300);
-                // }}
-                >Projects</NavLink>
+                <NavLink href="/projects">Projects</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="/process">Process</NavLink>

@@ -8,6 +8,7 @@ import LeSalon from '../pages/LeSalon';
 import Qbic from '../pages/Qbic';
 import Mindful from '../pages/Mindful';
 import Process from '../pages/Process';
+import Projects from '../pages/Projects';
 
 const Routes = () => {
   return (
@@ -19,6 +20,7 @@ const Routes = () => {
       <Route  path="/qbic" component={Qbic} />
       <Route  path="/mindful" component={Mindful} />
       <Route  path="/process" component={Process} />
+      <Route  path="/projects" component={Projects} />
     </Switch>
   );
 };
