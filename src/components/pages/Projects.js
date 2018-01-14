@@ -18,7 +18,9 @@ const Projects = ()=> {
           <Row>
             <Col sm={3}>
               <Link to="/leSalon"><h2>LeSalon</h2></Link>
-              <p>Redesigning a beauty services website<br/> with a human-centred approach.</p>
+              <p>Redesigning a beauty<br/>
+              services website with<br/>
+              a human-centred approach.</p>
             </Col>
             <Col sm={9}>
               <img src={'src/assets/images/le-salon.png'}/>
@@ -29,7 +31,9 @@ const Projects = ()=> {
           <Row>
             <Col sm={3}>
               <Link to="/qbic"><h2>Qbic Hotels</h2></Link>
-              <p>Designing a new app which brings<br/> travel experiences to the next level</p>
+              <p>Designing a new app which<br/>
+              brings travel experiences<br/>
+              to the next level</p>
             </Col>
             <Col sm={9}>
               <img src={'src/assets/images/qbic-hotels.png'}/>
