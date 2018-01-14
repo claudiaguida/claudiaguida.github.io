@@ -1,8 +1,12 @@
 #projects{
   .container{
-    margin-top: 100px;
+    margin-top: 70px;
     display: flex;
     justify-content: center;
+    h2{
+      padding-top: 30px;
+      
+    }
   }
   .project__content{
     // display: flex;
